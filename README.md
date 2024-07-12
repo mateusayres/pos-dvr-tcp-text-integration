@@ -8,3 +8,6 @@ Este projeto implementa um sistema de comunicação TCP para enviar e receber te
 
 Preview: <br><br>
 ![projectTcp](https://github.com/user-attachments/assets/9454557c-7770-4f9f-b33e-21ed5debf10d)
+<br><br>
+Example of operation on the DVR: <br><br>
+![IntelbrasEx](https://github.com/user-attachments/assets/587eef9e-65e0-4df2-89ab-c1a9dab8e261)
